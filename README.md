@@ -8,6 +8,8 @@ pip3 install numpy
 ```
 # Remerciements 
 Nous souhaitons remercier nos camarades Alexis et Manuel Enzo pour nous avoir aider sur l'implémentation de la méthode Euler implicite en utilisant Newton et Azibou Ahmed pour nous avoir aidé sur Runge-Kutta 4. Nous remercions également Vadez Vincent pour ses explications et réponses aux questions que nous avons posé pendant le projet ainsi qu'après
+## Résultats
+Pour ce projet, nous avons obtenu la note finale de 15/20, incluant le code, le rapport ainsi que notre présentation orale. La présentation orale a été encadrée par Vadez Vincent.
 
 ## License
 
